@@ -753,8 +753,8 @@ export const UserMenu: React.FC = () => {
           <div className='flex justify-center'>
             <div className='w-48 h-48 rounded-lg overflow-hidden shadow-lg border-2 border-green-100 dark:border-green-800'>
               <img
-                src='/ck.jpg'
-                alt='传康KK的赞赏码'
+                src='/JD.jpeg'
+                alt='赞赏码'
                 className='w-full h-full object-cover'
               />
             </div>
