@@ -77,7 +77,7 @@ function VersionDisplay() {
             </div>
             <div className='p-6 space-y-4'>
               <div className='text-center'>
-                <p className='text-gray-600 dark:text-gray-400 text-sm mb-2'>感谢使用 <span className='font-semibold text-green-600'>传康KK万能播放器</span></p>
+                <p className='text-gray-600 dark:text-gray-400 text-sm mb-2'>感谢使用 <span className='font-semibold text-green-600'>GordonITV</span></p>
                 <p className='text-gray-500 text-xs mb-4'>喜欢的朋友可以赞赏一下，感谢支持！</p>
               </div>
               <div className='flex justify-center'>
