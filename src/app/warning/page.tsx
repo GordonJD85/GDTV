@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '安全警告 - CKTV-传康播放器',
+  title: '安全警告 - GordonITV',
   description: '站点安全配置警告',
 };
 
