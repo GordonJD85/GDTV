@@ -70,7 +70,7 @@ function VersionDisplay() {
           <div className='fixed inset-0 bg-black/60 backdrop-blur-sm' onClick={() => setIsDonateOpen(false)} />
           <div className='relative w-[90%] max-w-sm bg-white dark:bg-gray-900 rounded-2xl shadow-2xl overflow-hidden z-10'>
             <div className='bg-gradient-to-r from-green-500 to-green-600 px-6 py-4 flex items-center justify-between'>
-              <h2 className='text-lg font-bold text-white'>传康KK万能播放器</h2>
+              <h2 className='text-lg font-bold text-white'>GordonITV</h2>
               <button onClick={() => setIsDonateOpen(false)} className='w-8 h-8 rounded-full flex items-center justify-center text-white/80 hover:text-white hover:bg-white/20'>
                 <X className='w-5 h-5' />
               </button>
@@ -82,13 +82,11 @@ function VersionDisplay() {
               </div>
               <div className='flex justify-center'>
                 <div className='w-48 h-48 rounded-lg overflow-hidden shadow-lg border-2 border-green-100 dark:border-green-800'>
-                  <img src='/ck.jpg' alt='传康KK的赞赏码' className='w-full h-full object-cover' />
+                  <img src='/JD.jpeg' alt='赞赏码' className='w-full h-full object-cover' />
                 </div>
               </div>
               <div className='text-center text-xs text-gray-500 space-y-1'>
-                <p>微信：1837620622</p>
-                <p>邮箱：2040168455@qq.com</p>
-                <p>咸鱼/B站：万能程序员</p>
+                
               </div>
             </div>
             <div className='px-6 pb-6'>
