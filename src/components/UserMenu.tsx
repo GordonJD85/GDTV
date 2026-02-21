@@ -731,7 +731,7 @@ export const UserMenu: React.FC = () => {
       <div className='fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[90%] max-w-sm bg-white dark:bg-gray-900 rounded-2xl shadow-2xl z-[2001] overflow-hidden'>
         {/* 顶部标题栏 */}
         <div className='bg-gradient-to-r from-green-500 to-green-600 px-6 py-4 flex items-center justify-between'>
-          <h2 className='text-lg font-bold text-white'>传康KK万能播放器</h2>
+          <h2 className='text-lg font-bold text-white'>GordonITV</h2>
           <button
             onClick={() => setIsDonateOpen(false)}
             className='w-8 h-8 rounded-full flex items-center justify-center text-white/80 hover:text-white hover:bg-white/20 transition-colors'
@@ -743,7 +743,7 @@ export const UserMenu: React.FC = () => {
         <div className='p-6 space-y-4'>
           <div className='text-center'>
             <p className='text-gray-600 dark:text-gray-400 text-sm mb-2'>
-              感谢使用 <span className='font-semibold text-green-600'>传康KK万能播放器</span>
+              感谢使用 <span className='font-semibold text-green-600'>GordonITV</span>
             </p>
             <p className='text-gray-500 dark:text-gray-500 text-xs mb-4'>
               喜欢的朋友可以赞赏一下，感谢支持！
