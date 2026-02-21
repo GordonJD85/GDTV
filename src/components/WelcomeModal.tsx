@@ -187,7 +187,7 @@ export const WelcomeModal: React.FC = () => {
                 </div>
                 <div>
                   <h2 className='text-lg font-bold bg-gradient-to-r from-green-600 to-emerald-600 bg-clip-text text-transparent'>
-                    CKTV-传康播放器
+                    GordonITV
                   </h2>
                   <p className='text-xs text-gray-500 dark:text-gray-400'>欢迎您的到来</p>
                 </div>
