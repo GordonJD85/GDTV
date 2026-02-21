@@ -263,7 +263,7 @@ export const WelcomeModal: React.FC = () => {
               <div className='text-center mb-3'>
                 <div className='inline-flex items-center gap-2 px-3 py-1 rounded-full bg-green-100 dark:bg-green-800/50 mb-2'>
                   <Heart className='w-3.5 h-3.5 text-pink-500' />
-                  <span className='text-xs font-medium text-green-700 dark:text-green-300'>传康KK 制作</span>
+                  <span className='text-xs font-medium text-green-700 dark:text-green-300'>Gordon85 制作</span>
                 </div>
                 <p className='text-xs text-gray-500 dark:text-gray-400'>喜欢的朋友可以赞赏支持一下</p>
               </div>
