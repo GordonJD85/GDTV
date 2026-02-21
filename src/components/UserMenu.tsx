@@ -761,9 +761,7 @@ export const UserMenu: React.FC = () => {
           </div>
           {/* 联系方式 */}
           <div className='text-center text-xs text-gray-500 dark:text-gray-400 space-y-1'>
-            <p>微信：1837620622</p>
-            <p>邮箱：2040168455@qq.com</p>
-            <p>咸鱼/B站：万能程序员</p>
+            
           </div>
         </div>
         {/* 底部按钮 */}
