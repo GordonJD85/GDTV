@@ -273,8 +273,8 @@ export const WelcomeModal: React.FC = () => {
                   <div className='absolute -inset-2 bg-gradient-to-r from-green-400 to-emerald-400 rounded-2xl blur opacity-25 group-hover:opacity-40 transition-opacity' />
                   <div className='relative w-36 h-36 rounded-xl overflow-hidden shadow-xl border-2 border-white dark:border-gray-700'>
                     <img
-                      src='/ck.jpg'
-                      alt='传康KK的赞赏码'
+                      src='/JD.jpeg'
+                      alt='赞赏码'
                       className='w-full h-full object-cover'
                     />
                   </div>
