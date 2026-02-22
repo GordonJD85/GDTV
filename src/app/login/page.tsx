@@ -82,7 +82,7 @@ function VersionDisplay() {
               </div>
               <div className='flex justify-center'>
                 <div className='w-48 h-48 rounded-lg overflow-hidden shadow-lg border-2 border-green-100 dark:border-green-800'>
-                  <img src='/JD.jpeg' alt='赞赏码' className='w-full h-full object-cover' />
+                  <img src='/JD.jpg' alt='赞赏码' className='w-full h-full object-cover' />
                 </div>
               </div>
               <div className='text-center text-xs text-gray-500 space-y-1'>
